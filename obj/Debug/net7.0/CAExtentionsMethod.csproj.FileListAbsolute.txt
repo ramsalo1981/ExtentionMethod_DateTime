@@ -1,0 +1,14 @@
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAExtentionsMethod\bin\Debug\net7.0\CAExtentionsMethod.exe
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAExtentionsMethod\bin\Debug\net7.0\CAExtentionsMethod.deps.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAExtentionsMethod\bin\Debug\net7.0\CAExtentionsMethod.runtimeconfig.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAExtentionsMethod\bin\Debug\net7.0\CAExtentionsMethod.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAExtentionsMethod\bin\Debug\net7.0\CAExtentionsMethod.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAExtentionsMethod\obj\Debug\net7.0\CAExtentionsMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAExtentionsMethod\obj\Debug\net7.0\CAExtentionsMethod.AssemblyInfoInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAExtentionsMethod\obj\Debug\net7.0\CAExtentionsMethod.AssemblyInfo.cs
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAExtentionsMethod\obj\Debug\net7.0\CAExtentionsMethod.csproj.CoreCompileInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAExtentionsMethod\obj\Debug\net7.0\CAExtentionsMethod.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAExtentionsMethod\obj\Debug\net7.0\refint\CAExtentionsMethod.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAExtentionsMethod\obj\Debug\net7.0\CAExtentionsMethod.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAExtentionsMethod\obj\Debug\net7.0\CAExtentionsMethod.genruntimeconfig.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAExtentionsMethod\obj\Debug\net7.0\ref\CAExtentionsMethod.dll
